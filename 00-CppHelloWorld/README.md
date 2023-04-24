@@ -30,8 +30,6 @@
     Tarea
     1. Si no posee una cuenta GitHub, crearla.
     2. Crear un repositorio público llamado AED.
-    11
-    Productos
     3. Escribir el archivo readme.md que actúa como front page del repositorio
     personal.
     4. Crear la carpeta 00-CppHelloWorld.

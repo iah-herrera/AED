@@ -1,12 +1,11 @@
-# Autores
+# 00 - "Hello, World!" en C++
 
 * iah-herrera
 * 146.479-6
 * Herrera
 * Ignacio
-
-
-# 00 - "Hello, World!" en C++
+* Version compilador: gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
+* Version lenguaje de programacion: c++20
 
 
 * Enunciado:
@@ -42,7 +41,6 @@
 
     ```
 
-* Hipótesis: 
 
 
 
